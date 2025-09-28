@@ -1,7 +1,8 @@
-My name is Daniel Thew. Thanks for taking the time to look through my Github! This is where I'll upload my work samples and some tidbits of code I find interesting.
+My name is Daniel Thew. Thanks for taking the time to look through my Github!
 
 **Education**:
-- University of Central Florida - Burnett Honors College: Computer Engineering (Undergraduate, graduating Summer 2024), Computer Science (Undergraduate, graduating Summer 2024), expecting to pursue Master's in Computer Science at UCF in Fall 2024
+- University of Central Florida - Burnett Honors College: Computer Engineering and Computer Science, graduated Summer 2024
+- University of Central Florida: Pursuing Master's in Computer Science, graduating Spring 2026
 
 **Interests**:
 - Computer Graphics: OpenGL, Vulkan
